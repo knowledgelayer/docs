@@ -10,3 +10,4 @@
   * [Courses](knowledgelayer-core/courses.md)
   * [Escrow and Dispute](knowledgelayer-core/escrow-and-dispute.md)
 * [The Graph](the-graph.md)
+* [Contract Addresses](contract-addresses.md)
