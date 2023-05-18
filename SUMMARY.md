@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome 🧠](README.md)
+* [Welcome 👋](README.md)
 * [How It Works](how-it-works.md)
 * [Business Case](business-case.md)
 * [KnowledgeLayer Core](knowledgelayer-core/README.md)
