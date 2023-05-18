@@ -1,5 +1,9 @@
 # Welcome 🧠
 
+{% hint style="info" %}
+Docs are work in progress. In-depth guides for integration will be added soon.
+{% endhint %}
+
 KnowledgeLayer is a protocol and developer toolkit for building open educational platforms. It provides the core backend components for edtech platforms, including:
 
 * On-chain courses and NFT-based sales
