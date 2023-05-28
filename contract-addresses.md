@@ -2,9 +2,4 @@
 
 ## Mumbai Testnet
 
-| Contract                 | Address                                                                                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| KnowledgeLayerID         | [0xEF76300FbbA3eA40801469409a93dD3d7a36d45B](https://mumbai.polygonscan.com/address/0xEF76300FbbA3eA40801469409a93dD3d7a36d45B) |
-| KnowledgeLayerPlatformID | [0x23919319dDCf7978C92cCF37875AD83686dA900B](https://mumbai.polygonscan.com/address/0x23919319dDCf7978C92cCF37875AD83686dA900B) |
-| KnowledgeLayerCourse     | [0x2e7df1B8740f4be7B610Dfc6fED47754a940DDCe](https://mumbai.polygonscan.com/address/0x2e7df1B8740f4be7B610Dfc6fED47754a940DDCe) |
-| KnowledgeLayerEscrow     | [0x9D76358fb40503FFa8450F9d4Dfcf331b651d5f9](https://mumbai.polygonscan.com/address/0x9D76358fb40503FFa8450F9d4Dfcf331b651d5f9) |
+<table><thead><tr><th width="264">Contract</th><th>Address</th></tr></thead><tbody><tr><td>KnowledgeLayerID</td><td><a href="https://mumbai.polygonscan.com/address/0xf63ceb052a1BBe8039b4222e18e3Dff144112577">0xf63ceb052a1BBe8039b4222e18e3Dff144112577</a></td></tr><tr><td>KnowledgeLayerPlatformID</td><td><a href="https://mumbai.polygonscan.com/address/0x630DA51087e91465C86B0E44bea1de7Ff9e6205e">0x630DA51087e91465C86B0E44bea1de7Ff9e6205e</a></td></tr><tr><td>KnowledgeLayerCourse</td><td><a href="https://mumbai.polygonscan.com/address/0x2AEf93e6BA305fc4c31e1Ae715892f22B7A3Ed8E">0x2AEf93e6BA305fc4c31e1Ae715892f22B7A3Ed8E</a></td></tr><tr><td>KnowledgeLayerEscrow</td><td><a href="https://mumbai.polygonscan.com/address/0x481b5A3Fd39a8Ba8FC81683d3fAE938B76c8e60f">0x481b5A3Fd39a8Ba8FC81683d3fAE938B76c8e60f</a></td></tr><tr><td>KnowledgeLayerReview</td><td><a href="https://mumbai.polygonscan.com/address/0x222a23a15b6c3c507B9D4B8BA94306a2e973b94A">0x222a23a15b6c3c507B9D4B8BA94306a2e973b94A</a></td></tr></tbody></table>
